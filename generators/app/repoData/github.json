@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "description": "testing",
+  "homepage": "https://github.com",
+  "private": true,
+  "has_issues": false,
+  "has_projects": false,
+  "has_wiki": false
+}
